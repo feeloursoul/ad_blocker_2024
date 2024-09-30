@@ -2,7 +2,7 @@
 
 <br>
 
-[日本語版はこちらから](https://github.com/feeloursoul/awesome-adblock/blob/main/README_jp.md)👀👀
+# [日本語版はこちらから](https://github.com/feeloursoul/awesome-adblock/blob/main/README_jp.md)🔄
 
 <br>
 
