@@ -1,5 +1,13 @@
 <br>
 
+<br>
+
+[日本語版はこちらから](https://github.com/feeloursoul/awesome-adblock/blob/main/README_jp.md)
+
+<br>
+
+<br>
+
 ![icon128](https://github.com/user-attachments/assets/7c3acda9-8ffd-4913-a061-ec97ee509225)
 
 <br>
