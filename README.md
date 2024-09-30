@@ -10,7 +10,7 @@
 
 <br>
 
-# Top of the top Ad Blockers in 2024
+# Top of the top Ad Blockers (Update Information)
 
 <br>
 
