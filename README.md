@@ -53,6 +53,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 🌸[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Skip Video Ads.)
 
 <br>
+
 🥉 [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
 
 <br>
@@ -65,7 +66,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🌈[UltraBlock](https://ultrablock.org/)(still development)
+🌈[UltraBlock](https://ultrablock.org/)(Still development)
 
 <br>
 
