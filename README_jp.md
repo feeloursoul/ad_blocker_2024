@@ -38,7 +38,7 @@
 
 <br>
 
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向き。動画の広告だけはスキップしてくれます。)
+🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向き。ツイッターのTLの広告をブロック&YouTubeの広告もさらにスキップ。)
 
 <br>
 
@@ -109,6 +109,8 @@
 <br>
 
 結論だけ言いますが [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) はお薦めです。
+
+個人的にはEasy Ad Blockerを使っています。最低限の性能を備えているから私はこれでも十分です。
 
 <br>
 
