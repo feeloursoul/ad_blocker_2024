@@ -46,11 +46,11 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
  
-🟫[XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (Fork of uBlock Origin Manifest V3. But can't skip YouTube Ads.)
+🟫 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (Fork of uBlock Origin Manifest V3. But can't skip YouTube Ads.)
 
 <br>
 
-🥇[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Automatic Skip Video Ads.)
+🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Automatic Skip Video Ads.)
 
 <br>
 
@@ -66,7 +66,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🌈[UltraBlock](https://ultrablock.org/)(Still development)
+🌈 [UltraBlock](https://ultrablock.org/)(Still development)
 
 <br>
 
