@@ -54,7 +54,7 @@
 
 <br>
 
-🌈[UltraBlock](https://ultrablock.org/) (ちょうど開発中で頑張って欲しい。）
+🌈[UltraBlock](https://ultrablock.org/) (まだ発展途上中かな。）
 
 <br>
 
