@@ -50,7 +50,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads only.)
+🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads. Twitter Ads Block.)
 
 <br>
 
