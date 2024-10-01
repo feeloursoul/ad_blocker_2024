@@ -46,7 +46,7 @@ The browser extension typically function by keeping a large blacklist of IP addr
 
 <br>
  
-🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (Fork of uBlock Origin Manifest v3)
+🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (💥 Fork of uBlock Origin Manifest v3)
 
 <br>
 
@@ -57,6 +57,8 @@ The browser extension typically function by keeping a large blacklist of IP addr
 🔰 [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
 <br>
+
+🍃 [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（Lightweight)
 
 <br>
 
