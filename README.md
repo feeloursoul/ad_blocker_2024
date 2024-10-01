@@ -111,7 +111,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-Eventually, I suggest you  [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) and [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) !!
+Eventually, I suggest you [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) !!
 
 <br>
 
