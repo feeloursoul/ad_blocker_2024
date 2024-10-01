@@ -104,7 +104,7 @@
 
 <br>
 
-結論だけ言いますが  [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) もしくは [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) をお薦めいたします!!
+結論だけ言いますが  [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) もしくは [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) の両方がお薦めです!!
 
 <br>
 
@@ -117,6 +117,8 @@
 <br>
 
 [Toolz](https://d3ward.github.io/toolz/adblock)
+
+<br>
 
 
 
