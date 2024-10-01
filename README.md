@@ -54,7 +54,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Automatic Skip Video Ads.)
+🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Excellent! Automatic Skip Video Ads.)
 
 <br>
 
