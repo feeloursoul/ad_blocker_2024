@@ -38,7 +38,7 @@
 
 <br>
  
-🟫[XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
+🟫 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
 
 <br>
 
@@ -46,7 +46,7 @@
 
 <br>
 
-🥇[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（かなり完成度は高くてYouTube動画の再生において広告を早送りで一瞬のうちにスキップしました。)
+🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（かなり完成度は高くてYouTube動画の再生において広告を早送りで一瞬のうちにスキップしました。)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <br>
 
-🌈[UltraBlock](https://ultrablock.org/) (まだ発展途上中かな。）
+🌈 [UltraBlock](https://ultrablock.org/) (まだ発展途上中かな。）
 
 <br>
 
