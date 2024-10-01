@@ -22,7 +22,7 @@
 
 <br>
 
-## 2024 推奨される広告ブロッカー(Google Chrome, Microsoft Edge, Opera, Firefox, Whale Browser 等と互換性あり。)
+## 2024年-2025年以後に推奨されるおすすめ広告ブロッカー(Google Chrome, Microsoft Edge, Opera, Firefox, Whale Browserと互換性があり。)
 
 <br>
 
@@ -30,15 +30,15 @@
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Strong)
+🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (強力なブロック機能)
 
 <br>
 
-😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (not recommended)
+😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (めちゃ重たいです)
 
 <br>
  
-🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (Fork of uBlock Origin Manifest v3)
+🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと似ておりManifest V3にも対応している最も注目すべき拡張機能)
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（Lightweight)
+✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（シンプルで軽快です)
 
 <br>
 
