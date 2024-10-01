@@ -50,7 +50,7 @@
 
 <br>
 
-🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（フィルタリングのオプション機能はない。YouTubeの広告ブロッカー検出に引っ掛かり対策するにも限度があるかも。)
+🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（フィルタリングのオプション機能はない。YouTubeの広告ブロッカー検出に引っ掛かり画面が急に停止することがある。広告ブロッカーとしての完成度では高い部類に入る。)
 
 <br>
 
