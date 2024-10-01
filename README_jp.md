@@ -22,7 +22,7 @@
 
 <br>
 
-## 非常に素晴らしい広告ブロッカーのベスト5(Google Chrome, Microsoft Edge, Opera, Firefox, Whale Browser 等と互換性あり。)
+## 2024 推奨される広告ブロッカー(Google Chrome, Microsoft Edge, Opera, Firefox, Whale Browser 等と互換性あり。)
 
 <br>
 
@@ -77,6 +77,8 @@
 <img width="287" alt="duck" src="https://github.com/user-attachments/assets/15d1a3bd-3b67-4b8e-bd7a-2a1919f9deed">
 <img width="275" alt="dance" src="https://github.com/user-attachments/assets/fba2e199-17a0-47cf-9c81-89e050e59b78">
 <img width="268" alt="flower" src="https://github.com/user-attachments/assets/870b64e8-ee2d-4bce-925c-f1a113fb31fd">
+<img width="313" alt="capture" src="https://github.com/user-attachments/assets/5428a800-82d2-468e-9f99-6ea9ce6eff37">
+
 
 <br>
 
