@@ -50,7 +50,7 @@
 
 <br>
 
-🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（かなり完成度は高くてYouTube動画の再生において広告を早送りで一瞬のうちにスキップしました。)
+🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（フィルタリングのオプション機能はない。YouTubeの広告ブロッカー検出に引っ掛かり対策するにも限度があるかも。)
 
 <br>
 
