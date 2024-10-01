@@ -50,6 +50,10 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
+🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads.)
+
+<br>
+
 🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Automatic Skip Video Ads.)
 
 <br>
@@ -57,8 +61,6 @@ Free web browser extension typically function by keeping a large blacklist of IP
 🥉 [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
 
 <br>
-
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads.)
 
 <br>
 
