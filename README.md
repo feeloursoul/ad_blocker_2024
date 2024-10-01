@@ -30,7 +30,7 @@ The browser extension typically function by keeping a large blacklist of IP addr
 
 <br>
 
-## A curated list of awesome Ad Blocker ( Chrome, Microsoft edge, etc)
+## A curated list of awesome Ad Blocker ( Google Chrome, Microsoft Edge, Opera, Firefox, Whale Browser, etc)
 
 <br>
 
@@ -58,7 +58,7 @@ The browser extension typically function by keeping a large blacklist of IP addr
 
 <br>
 
-🍃 [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（Lightweight)
+✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（Lightweight)
 
 <br>
 
