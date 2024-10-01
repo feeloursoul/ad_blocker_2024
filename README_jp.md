@@ -16,7 +16,7 @@
 
 <br>
 
-ブラウザ拡張機能は通常、広告に関連付けられたIPアドレスの大規模なブラックリストを保持することで機能します。最新のオンライン広告では、広告はサイトの読み込み時にリアルタイムでサードパーティのソースから取得されます。そこには数多くの広告ブロッカーがありますが、私たちは本当に優れた機能を備えたものだけを選びました。したがって、プライバシーを保護するために、広告ブロッカーとブラウザ拡張機能を使用することをお勧めします。拡張機能を使用してWebサイト上の広告をブロックすることで、重要なコンテンツに集中できます。uBlock OriginはManifest v3と互換性がないため、近い将来、拡張機能ストアから削除される可能性があります。ただし、探せば別の拡張機能を見つけることができます。ブロック率が高い広告ブロッカーを見つけたので、上位5つのアドオンを紹介していきます。
+ブラウザ拡張機能は通常、広告に関連付けられたIPアドレスの大規模なブラックリストを保持することで機能します。最新のオンライン広告では、広告はサイトの読み込み時にリアルタイムでサードパーティのソースから取得されます。そこには数多くの広告ブロッカーがありますが、私たちは本当に優れた機能を備えたものだけを選びました。したがって、プライバシーを保護するために、広告ブロッカーとブラウザ拡張機能を使用することをお勧めします。拡張機能を使用してWebサイト上の広告をブロックすることで、重要なコンテンツに集中できます。uBlock OriginはManifest v3と互換性がないため、近い将来、拡張機能ストアから削除される可能性があります。ただし、探せば別の拡張機能を見つけることができます。ブロック率が高い広告ブロッカーを見つけたので、2024年度後半以降注目のアドオンを紹介していきましょう。
 
 <br>
 
@@ -30,15 +30,15 @@
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (強力なブロック機能)
+🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (強力なブロック機能。)
 
 <br>
 
-😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (めちゃ重たいです)
+😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (めちゃ重たいです。)
 
 <br>
  
-🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと似ておりManifest V3にも対応している最も注目すべき拡張機能)
+🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。)
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（シンプルで軽快です)
+✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（シンプルで軽快です。)
 
 <br>
 
