@@ -37,7 +37,11 @@
 😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (めちゃ重たいです。)
 
 <br>
- 
+
+🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向きだが、動画の広告だけはスキップしてくれます。)
+
+<br>
+
 🟫 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
 
 <br>
