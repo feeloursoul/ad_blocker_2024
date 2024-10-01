@@ -38,7 +38,7 @@
 
 <br>
 
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向きだが、動画の広告だけはスキップしてくれます。)
+🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向き。動画の広告だけはスキップしてくれます。)
 
 <br>
 
