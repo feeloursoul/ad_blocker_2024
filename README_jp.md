@@ -10,7 +10,7 @@
 
 <br>
 
-# 特別に優秀な広告ブロッカー(2024年10月1日　現在　最新情報　更新中。）
+# 特別に優秀な広告ブロッカー(2024年10月1日現在　最新情報を更新中。）
 
 <br>
 
@@ -46,7 +46,9 @@
 
 <br>
 
-🌸[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（高性能なアプリです。YouTubeにおいては広告を早送りして一瞬のうちにスキップしました。)
+🌸[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（かなり完成度は高くてYouTube動画の再生において広告を早送りで一瞬のうちにスキップしました。)
+
+<br>
 
 🔰 [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
