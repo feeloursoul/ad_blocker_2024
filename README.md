@@ -38,7 +38,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Very Strong)
+🥇 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Very Very Strong.)
 
 <br>
 
@@ -46,11 +46,11 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
  
-🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (🎀 2024 Fork of uBlock Origin Manifest V3)
+🟫[XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (Fork of uBlock Origin Manifest V3. But can't skip YouTube Ads.)
 
 <br>
 
-🌸[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Skip Video Ads.)
+🥈[Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Powerful!! Automatic Skip Video Ads.)
 
 <br>
 
@@ -71,22 +71,21 @@ Free web browser extension typically function by keeping a large blacklist of IP
 <br>
 
 
- ## Performance Test Results
+ ## Performance Test Results (Ranked by percentages of ads blocked)
 
 <br>
 <br>
 <br>
 <br>
  
- ❶  🥇 uBlock Origin  (99%)
+ ❶  🥇🏆 uBlock Origin  (99%)
  ❷  🥈 XB-Ad block all ads  (93%)
  ❸  🥉 AdBlocker Ultimate (92%)
-  
-<br>
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
+<br>
 
 <img width="287" alt="duck" src="https://github.com/user-attachments/assets/15d1a3bd-3b67-4b8e-bd7a-2a1919f9deed">
 <img width="275" alt="dance" src="https://github.com/user-attachments/assets/fba2e199-17a0-47cf-9c81-89e050e59b78">
@@ -104,6 +103,21 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
+## What's the best one here?
+
+<br>
+
+<br>
+
+<br>
+
+Eventually, I suggest you  [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) and [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) !!
+
+<br>
+
+<br>
+
+<br>
 
 ## References
 
