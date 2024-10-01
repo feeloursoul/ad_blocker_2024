@@ -38,7 +38,7 @@
 
 <br>
  
-[XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
+🟫[XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
 
 <br>
 
