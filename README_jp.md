@@ -38,7 +38,7 @@
 
 <br>
 
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向き。ツイッターのTLの広告をブロックする上にYouTubeの広告もちゃんとスキップしました。)
+🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (広告がすり抜けるのでネットサーフィンには不向き。ツイッターのTLの広告をブロックする。YouTubeの広告もちゃんとスキップしました。)
 
 <br>
 
