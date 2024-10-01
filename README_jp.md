@@ -70,7 +70,7 @@
 <br>
 <br>
  
- ❶  🥇 uBlock Origin  (99%)
+ ❶  🏆🥇 uBlock Origin  (99%)
  ❷  🥈 XB-Ad block all ads  (93%)
  ❸  🥉 AdBlocker Ultimate (92%)
   
