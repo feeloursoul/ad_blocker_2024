@@ -38,7 +38,7 @@
 
 <br>
  
-🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。)
+🥇 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
 
 <br>
 
@@ -96,6 +96,21 @@
 
 <br>
 
+## 紹介した拡張機能で総合点で使える広告ブロッカーは何？
+
+<br>
+
+<br>
+
+<br>
+
+結論だけ言いますが  [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) もしくは [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) をお薦めいたします!!
+
+<br>
+
+<br>
+
+<br>
 
 ## 参照（性能テストで引用させてもらったデータ元）
 
