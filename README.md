@@ -70,7 +70,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🌈 [UltraBlock](https://ultrablock.org/)( Still Now Development.)
+🌈 [UltraBlock](https://ultrablock.org/)(development now.)
 
 <br>
 
