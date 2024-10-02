@@ -38,42 +38,11 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) ( Useful tools and many features. )
-
-<br>
-
-😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (Oh, No. very slow & Heavy. Not Recommended.)
-
-<br>
+[AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) ( Useful tools and many features. )
  
-🥉 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) ( New Fork of uBlock Origin Manifest V3. )
+[XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) ( New Fork of uBlock Origin Manifest V3. )
 
-<br>
-
-🥇 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads. + Twitter Ads Block.)
-
-<br>
-
-👽 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Automatic Skip Video Ads.)
-
-<br>
-
-🎹  [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
-
-<br>
-
-🔰   [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/bgnkhhnnamicmpeenaelnjfhikgbkllg)
-
-<br>
-
-✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)
-
-<br>
-
-🌈 [UltraBlock](https://ultrablock.org/)(still development now.)
-
-<br>
-
+[AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
  ## Performance Test Results (Ranked by percentages of ads blocked)
 
@@ -96,26 +65,9 @@ Free web browser extension typically function by keeping a large blacklist of IP
 <img width="268" alt="flower" src="https://github.com/user-attachments/assets/870b64e8-ee2d-4bce-925c-f1a113fb31fd">
 <img width="313" alt="capture" src="https://github.com/user-attachments/assets/5428a800-82d2-468e-9f99-6ea9ce6eff37">
 
-
 <br>
 
 <br>
-
-<br>
-
-<br>
-
-<br>
-
-## What's the best one here?
-
-<br>
-
-<br>
-
-<br>
-
-Eventually, I suggest you  [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd)!!
 
 <br>
 
