@@ -38,7 +38,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Very Very Strong.)
+🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Strong.)
 
 <br>
 
@@ -46,19 +46,19 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
  
-🟫 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (Fork of uBlock Origin Manifest V3. But can't skip YouTube Ads.)
+🥉 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (New Fork of uBlock Origin Manifest V3.)
 
 <br>
 
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads. + Twitter Ads Block.)
+🥇 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (YouTube Skip Ads. + Twitter Ads Block.)
 
 <br>
 
-🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Excellent! Automatic Skip Video Ads.)
+👽 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Automatic Skip Video Ads.)
 
 <br>
 
-🥉 [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
+🎹  [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
 
 <br>
 
@@ -66,11 +66,11 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（Lightweight)
+✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)
 
 <br>
 
-🌈 [UltraBlock](https://ultrablock.org/)(Still development)
+🌈 [UltraBlock](https://ultrablock.org/)(Still Now Development.)
 
 <br>
 
@@ -115,7 +115,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-Eventually, I suggest you [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) !!
+Eventually, I suggest you  [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd)!!
 
 <br>
 
