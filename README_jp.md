@@ -38,19 +38,19 @@
 
 <br>
 
-🎹 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (ツイッターのTLの広告をブロックする。YouTubeの広告もちゃんとスキップしました。ネットサーフィンしてても広告の一部は防ぎきれてないが機能のバランスを考慮すると総合点は上位に位置している。)
+🥇 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (ツイッターのTLの広告をブロックする。YouTubeの広告もちゃんとスキップしました。ネットサーフィンしてても広告の一部は防ぎきれてないが機能のバランスを考慮すると総合点は上位に位置している。)
 
 <br>
 
-🟫 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ておりManifest V3にも対応。動画の広告がスキップできないのが最大の弱点。)
+🥉 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (uBlock Originと作りが似ており、待望のManifest V3も対応。)
 
 <br>
 
-🥉 [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
+🎹  [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
 
 <br>
 
-🥇 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（YouTubeの広告ブロッカー検出に引っ掛かり画面が途中で停止するときがある。フィルタリングのカスタマイズが苦手な人に向いてる。)
+👽 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（YouTubeの広告ブロッカー検出に引っ掛かる仕組み。その後のバックグラウンドの挙動が何か怪しい。)
 
 <br>
 
@@ -62,7 +62,7 @@
 
 <br>
 
-🌈 [UltraBlock](https://ultrablock.org/) (まだ発展途上中かな。）
+🌈 [UltraBlock](https://ultrablock.org/) (精力的に開発中。機能面が弱い。）
 
 <br>
 
@@ -108,9 +108,7 @@
 
 <br>
 
-結論だけ言いますが [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii) はお薦めです。
-
-個人的にはEasy Ad Blockerを使っています。最低限の性能を備えているから私はこれでも十分です。
+結論だけ言いますが [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) はお薦めです。
 
 <br>
 
