@@ -30,15 +30,7 @@
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (強力なブロック機能。)
-
-<br>
-
-😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (めちゃ重たいです。)
-
-<br>
-
-🥇 [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) (ツイッターのTLの広告をブロックする。YouTubeの広告もちゃんとスキップしました。ネットサーフィンしてても広告の一部は防ぎきれてないが機能のバランスを考慮すると総合点は上位に位置している。)
+[AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (強力なブロック機能。)
 
 <br>
 
@@ -46,28 +38,13 @@
 
 <br>
 
-🎹  [Privacy AdBlocker](https://microsoftedge.microsoft.com/addons/detail/privacy-adblocker-all-i/jefcaibefhfdmldbjhfhpokaeccigcca)
-
-<br>
-
-👽 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（YouTubeの広告ブロッカー検出に引っ掛かる仕組み。その後のバックグラウンドの挙動が何か怪しい。)
-
-<br>
-
 🔰 [AdGuard](https://chromewebstore.google.com/detail/adguard-%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
 <br>
 
-✅ [Privacy Protector Adblocker](https://microsoftedge.microsoft.com/addons/detail/privacy-protector-adblock/jmgbfafmchgbfolpdkdofglkcebkjjki)（シンプルで軽快です。)
-
 <br>
 
-🌈 [UltraBlock](https://ultrablock.org/) (精力的に開発中。機能面が弱い。）
-
-<br>
-
-
- ## 広告ブロック率の検証結果（パーセントで示した）
+## 広告ブロック率の検証結果（パーセントで示した）
 
 <br>
 <br>
@@ -99,23 +76,6 @@
 <br>
 
 <br>
-
-## 紹介した拡張機能で総合点で使える広告ブロッカーは何？
-
-<br>
-
-<br>
-
-<br>
-
-結論だけ言いますが [Easy Ad Blocker](https://chromewebstore.google.com/detail/easy-ad-blocker/naffoicfphgmlgikpcmghdooejkboifd) はお薦めです。
-
-<br>
-
-<br>
-
-<br>
-
 ## 参照（性能テストで引用させてもらったデータ元）
 
 <br>
