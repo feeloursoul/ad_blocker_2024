@@ -38,7 +38,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Strong.)
+🥈 [AdBlocker Ultimate](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof) (Useful and Powerful !! )
 
 <br>
 
