@@ -42,7 +42,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (Oh, No. So Heavy. Not Recommended.)
+😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (Oh, No. So much Heavy. Not Recommend.)
 
 <br>
  
@@ -70,7 +70,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🌈 [UltraBlock](https://ultrablock.org/)(Still Now Development.)
+🌈 [UltraBlock](https://ultrablock.org/)( Still Now Development.)
 
 <br>
 
