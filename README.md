@@ -42,11 +42,11 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (Oh, No. So much Heavy. Not Recommend.)
+😎 [SBlock](https://chromewebstore.google.com/detail/sblock-%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E5%BA%83%E5%91%8A%E3%83%96%E3%83%AD%E3%83%83%E3%82%AB%E3%83%BC/cmdgdghfledlbkbciggfjblphiafkcgg) (Oh, No. very slow & Heavy. Not Recommended.)
 
 <br>
  
-🥉 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) (New Fork of uBlock Origin Manifest V3.)
+🥉 [XB](https://chromewebstore.google.com/detail/xb-block-all-ads/hefagnpnacabcobofkfodcoiilmjbpkh) ( New Fork of uBlock Origin Manifest V3. )
 
 <br>
 
@@ -54,7 +54,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-👽 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（ Automatic Skip Video Ads. )
+👽 [Smart Adblocker](https://chromewebstore.google.com/detail/smart-adblocker/iojpcjjdfhlcbgjnpngcmaojmlokmeii)（Automatic Skip Video Ads.)
 
 <br>
 
@@ -70,7 +70,7 @@ Free web browser extension typically function by keeping a large blacklist of IP
 
 <br>
 
-🌈 [UltraBlock](https://ultrablock.org/)( development now. )
+🌈 [UltraBlock](https://ultrablock.org/)(still development now.)
 
 <br>
 
